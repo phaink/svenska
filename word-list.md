@@ -13,5 +13,12 @@
 | Strulpelle | någon som ställer till med problem | a troublemaker |
 | Slarvpelle | en person som är slarvig | a lazy person |
 | Turturduvor | två personer som är väldigt kära i varandra | lovebirds |
+| Bråkstake | någon som ofta bråker | a quarrelsome person |
+| Skvallerbytta | en person som älskar att skvallra | a blabber |
+| Arbetsmyra | en person som jobbar hårt | an industrious person |
+| Turturduvor | två personer som är väldigt kära i varandra | lovebirds |
+
+
+
 
 
