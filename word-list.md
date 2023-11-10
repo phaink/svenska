@@ -8,6 +8,8 @@
 | Pratkvarn | någon som pratar mycket | talkative person |
 | Besserwisser | någon som tror att man vet allt | a person who knows all |
 | Busfrö | ett busigt barn | a naughty child / prankster |
-| Tråkmåns | En träkig person | a sad or boring person |
-
+| Tråkmåns | en träkig person | a sad or boring person |
+| Snåljap | en person som inte vill spendera pengar | a miserly person |
+| Strulpelle | någon som ställer till med problem | a troublemaker |
+| Slarvpelle | en person som är slarvig | a lazy person |
 
