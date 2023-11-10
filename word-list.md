@@ -6,5 +6,6 @@
 | Bokmal | någon som älskar att läsa | a person who loves reading |
 | Tönt| någon som ses konstig eller fånig |  a weirdo |
 | Pratkvarn | någon som pratar mycket | talkative person |
+| Besserwisser | någon som tror att man vet allt | a person who knows all |
 
 
