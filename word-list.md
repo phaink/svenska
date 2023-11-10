@@ -18,6 +18,7 @@
 | Arbetsmyra | en person som jobbar hårt | an industrious person |
 | Vinnarskalle | en väldigt tävlingsinriktad person | a competitive person |
 | Latmask | en lat person | a lazy person |
+| Latmask | en lat person | a lazy person |
 
 
 
