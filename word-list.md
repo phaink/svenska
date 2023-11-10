@@ -12,4 +12,6 @@
 | Snåljap | en person som inte vill spendera pengar | a miserly person |
 | Strulpelle | någon som ställer till med problem | a troublemaker |
 | Slarvpelle | en person som är slarvig | a lazy person |
+| Turturduvor | två personer som är väldigt kära i varandra | lovebirds |
+
 
