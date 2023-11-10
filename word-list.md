@@ -16,7 +16,6 @@
 | Bråkstake | någon som ofta bråker | a quarrelsome person |
 | Skvallerbytta | en person som älskar att skvallra | a blabber |
 | Arbetsmyra | en person som jobbar hårt | an industrious person |
-| Turturduvor | två personer som är väldigt kära i varandra | lovebirds |
 | Vinnarskalle | en väldigt tävlingsinriktad person | a competitive person |
 | Latmask | en lat person | a lazy person |
 
