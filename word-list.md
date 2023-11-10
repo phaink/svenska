@@ -7,5 +7,7 @@
 | Tönt| någon som ses konstig eller fånig |  a weirdo |
 | Pratkvarn | någon som pratar mycket | talkative person |
 | Besserwisser | någon som tror att man vet allt | a person who knows all |
+| Busfrö | ett busigt barn | a naughty child / prankster |
+| Tråkmåns | En träkig person | a sad or boring person |
 
 
