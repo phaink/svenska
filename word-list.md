@@ -1,4 +1,4 @@
 | Word | Meanings |
 | ----------- | ----------- |
-| Header | Title |
+| Ödmjuk | humble |
 | Paragraph | Text |
