@@ -1,4 +1,4 @@
 | Word | Meanings |
 | ----------- | ----------- |
-| Ödmjuk | humble |
+| Pucko | en dum person |
 | Paragraph | Text |
