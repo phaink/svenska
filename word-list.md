@@ -11,7 +11,7 @@
 | Tråkmåns | en träkig person | a sad or boring person |
 | Snåljap | en person som inte vill spendera pengar | a miserly person |
 | Strulpelle | någon som ställer till med problem | a troublemaker |
-| Slarvpelle | en person som är slarvig | a lazy person |
+| Slarvpelle | en person som är slarvig | a sloppy person |
 | Turturduvor | två personer som är väldigt kära i varandra | lovebirds |
 | Bråkstake | någon som ofta bråker | a quarrelsome person |
 | Skvallerbytta | en person som älskar att skvallra | a blabber |
